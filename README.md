@@ -1,4 +1,4 @@
-# terraform-azure-k8saas
+# terraform-azurerm-k8saas
 This Terraform module can be used to deploy a self-contained Kubernetes cluster based in Azure based on AKS.
 Self-contained means its running in its own Resource group / VNET and should have no impact on existing environments.
 
